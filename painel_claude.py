@@ -51,10 +51,10 @@ BASE_URL = "https://docs.google.com/spreadsheets/d/1YPYm7yrKjzR95DdKfRcKALXS_QSU
 
 URLS = {
     "PAINEL_GESTAO": f"{BASE_URL}/export?format=csv&gid=177579187",
-    "QUADRO_ERALDO": f"{BASE_URL}/export?format=csv&gid=629274004",
-    "PRODUCAO_JOEL": f"{BASE_URL}/export?format=csv&gid=20556135",
-    "CORTE_GIL": f"{BASE_URL}/export?format=csv&gid=53490300",
-    "EMBALAGEM_LEONICE": f"{BASE_URL}/export?format=csv&gid=1876961108",
+    "QUADRO_ERALDO": f"{BASE_URL}/export?format=csv&gid=629774064",
+    "PRODUCAO_JOEL": f"{BASE_URL}/export?format=csv&gid=201565125",
+    "CORTE_GIL": f"{BASE_URL}/export?format=csv&gid=534903008",
+    "EMBALAGEM_LEONICE": f"{BASE_URL}/export?format=csv&gid=587696180",
 }
 
 # =============================================================================
