@@ -47,7 +47,7 @@ st.markdown(
 # --- 3. URLs DO GOOGLE SHEETS (substitua os GIDs reais aqui) ---
 # Formato: .../export?format=csv&gid=<GID_DA_ABA>
 # =============================================================================
-BASE_URL = "https://docs.google.com/spreadsheets/d/1YPYm7yrKjzR95DdKfRcKALXS_QSUjt4MwtpRgQs5gfM"
+BASE_URL = "https://docs.google.com/spreadsheets/d/1YPYm7yrKjzR95DdKfRcKALXS_QSUJt4MwtpRgQs5gfM"
 
 URLS = {
     "PAINEL_GESTAO": f"{BASE_URL}/export?format=csv&gid=177579187",
