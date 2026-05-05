@@ -50,11 +50,11 @@ st.markdown(
 BASE_URL = "https://docs.google.com/spreadsheets/d/1YPYm7yrKjzR95DdKfRcKALXS_QSUJt4MwtpRgQs5gfM"
 
 URLS = {
-    "PAINEL_GESTAO": f"{BASE_URL}/export?format=csv&gid=177579187",
-    "QUADRO_ERALDO": f"{BASE_URL}/export?format=csv&gid=629774064",
-    "PRODUCAO_JOEL": f"{BASE_URL}/export?format=csv&gid=201565125",
-    "CORTE_GIL": f"{BASE_URL}/export?format=csv&gid=534903008",
-    "EMBALAGEM_LEONICE": f"{BASE_URL}/export?format=csv&gid=587696180",
+    "PAINEL_GESTAO":     f"{BASE_URL}/gviz/tq?tqx=out:csv&gid=177579187",
+    "QUADRO_ERALDO":     f"{BASE_URL}/gviz/tq?tqx=out:csv&gid=629774064",
+    "PRODUCAO_JOEL":     f"{BASE_URL}/gviz/tq?tqx=out:csv&gid=201565125",
+    "CORTE_GIL":         f"{BASE_URL}/gviz/tq?tqx=out:csv&gid=534903008",
+    "EMBALAGEM_LEONICE": f"{BASE_URL}/gviz/tq?tqx=out:csv&gid=587696180",
 }
 
 # =============================================================================
